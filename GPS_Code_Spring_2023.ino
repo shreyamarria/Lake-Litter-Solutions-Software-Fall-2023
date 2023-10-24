@@ -1,9 +1,6 @@
 #include <SoftwareSerial.h>
 
-/***********************************************************
- *Project   : GY-NEO6MV2 Flight Control GPS Module Tutorial 
- *MYBOTIC @ www.mybotic.com.my
-
+/**********************************************************
  LAKE LITTER SOLUTIONS GPS MODULE
 ************************************************************/
 
